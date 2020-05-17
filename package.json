@@ -1,0 +1,23 @@
+{
+  "name": "number-pool-api",
+  "version": "1.0.0",
+  "description": "Backend API for number pool app.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgroves/number-pool-api.git"
+  },
+  "author": "Robert Groves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rgroves/number-pool-api/issues"
+  },
+  "homepage": "https://github.com/rgroves/number-pool-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
